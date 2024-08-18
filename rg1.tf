@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "rgr" {
-  name = "rg23"
-  location = "eastus"
+  name = "rg32"
+  location = "westus"
 }
